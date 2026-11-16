@@ -36,8 +36,8 @@ O efeito foi desenvolvido utilizando CSS, por meio das propriedades `transition`
 
 ## Site publicado
 
-Link: file:///C:/Users/evely/OneDrive/Documentos/Isadora/Projetos/portfolio/index.html#contato
+Link: https://isadoratosi.github.io/portfolio/
 
 ## Repositório GitHub
 
-Link: https://github.com/IsadoraTosi/portfolio/edit/main/README.md
+Link: https://github.com/IsadoraTosi/portfolio
