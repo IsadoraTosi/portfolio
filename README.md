@@ -1,6 +1,5 @@
 # Portfólio Pessoal — Isadora Tosi
 
-**Aluna:** Isadora Tosi
 
 ## Sobre o projeto
 
@@ -37,8 +36,8 @@ O efeito foi desenvolvido utilizando CSS, por meio das propriedades `transition`
 
 ## Site publicado
 
-Link: A adicionar após a publicação.
+Link: file:///C:/Users/evely/OneDrive/Documentos/Isadora/Projetos/portfolio/index.html#contato
 
 ## Repositório GitHub
 
-Link: A adicionar após a publicação.
+Link: https://github.com/IsadoraTosi/portfolio/edit/main/README.md
